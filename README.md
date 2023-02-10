@@ -1,5 +1,11 @@
 # Thriving_Villages
 
+##Play
+Download the game files via the github release or download it from the drive link given below.
+Google drive link to download the build:- https://drive.google.com/file/d/1nwrJ__xjZ7tZ3JskvBf2qKnRoeVZ0MTF/view?usp=sharing
+
+Unzip and execute the terrain.exe file to start playing.
+
 ## Concept
 
 Gameplay: The player starts in a virtual rural village where the inhabitants still use traditional methods in their daily routines. The task of the player is to educate the villagers about modern methods and techniques that can improve their quality of life. To do this, the player must use in-game resources and their own knowledge to interact with the villagers and teach them about the new methods.
