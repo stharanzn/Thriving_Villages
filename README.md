@@ -1,6 +1,6 @@
 # Thriving_Villages
 
-##Play
+## Play
 Download the game files via the github release or download it from the drive link given below.
 Google drive link to download the build:- https://drive.google.com/file/d/1nwrJ__xjZ7tZ3JskvBf2qKnRoeVZ0MTF/view?usp=sharing
 
